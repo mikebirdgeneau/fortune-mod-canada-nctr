@@ -8,8 +8,8 @@ nctr.dat:
 	strfile nctr
 
 install: .deps nctr.dat
-	sudo cp nctr /usr/share/fortune/
-	sudo cp nctr.dat /usr/share/fortune
+	sudo cp nctr /usr/share/fortune/canada-nctr
+	sudo cp nctr.dat /usr/share/fortune/canada-nctr.dat
 
 test:
 	fortune canada-nctr | cowsay
