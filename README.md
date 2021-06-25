@@ -1,6 +1,11 @@
 # fortune-mod-canada-nctr
 Fortune quotes from the Truth and Reconciliation Commission of Canada Calls to Action
 
+Well, since you're here... Read this:
+https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/indigenous-people/aboriginal-peoples-documents/calls_to_action_english2.pdf
+
+Once you've done that, feel free to use this fortune-mod dataset to give them the attention they deserve.
+
 ## Installation
 
 1. Install `fortune-mod` for your distribution.
