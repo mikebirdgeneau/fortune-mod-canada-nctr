@@ -12,7 +12,7 @@ install: .deps nctr.dat
 	sudo cp nctr.dat /usr/share/fortune
 
 test:
-	fortune nctr | cowsay
+	fortune canada-nctr | cowsay
 
 clean:
 	rm nctr.dat
