@@ -15,6 +15,8 @@ Fortune quotes from the Truth and Reconciliation Commission of Canada Calls to A
 Run `fortune canada-nctr`
 
 ```
+$ fortune canada-nctr | cowsay
+
  ________________________________________
 / Call to Action #73: Missing Children   \
 | and Burial Information                 |
@@ -35,6 +37,7 @@ Run `fortune canada-nctr`
                 ||----w |
                 ||     ||
 
+$
 ```
 
 ## References
